@@ -1,0 +1,126 @@
+/* CSS reset, dit niet aanpassen! */
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+img {
+  max-width: 100vw;
+  max-height: auto;
+}
+
+/* Hieronder mag je eigen CSS code */
+body {
+    background-image: url(water/426ac52139113d789e5730641a309ada.jpg);
+}
+#background {
+background-image: url("img67/51e1f9c44120ace8a26bb3a08ccc5cf6.jpg")
+}
+#background3 {
+  background-image: url("img/img2/79da051b54e13a2fc024a59b19158f04.jpg");
+}
+#background4 {
+  background-image: url("img/img3/0ffaeebfeb772c900588a26b28eb7761.jpg");
+}
+
+#titles{
+  background-image: url("https://i.pinimg.com/1200x/d7/8d/57/d78d574cae9cd77fe48567e2ae664056.jpgb") ;
+}
+
+h1 {
+    font-family: fantasy;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+} 
+#about { 
+  background-color:rgb(155, 155, 170);
+  font-size: 20px;
+}
+
+.para-image{
+  position:relative
+  float:left;
+  width: 100%
+  text-align: center;
+  padding: 20 px 0;
+}
+
+a {
+color: #73AD21;
+}
+a:hover{
+color: #b8fdff;
+}
+.button {
+    background: linear-gradient(to right, #66a3ff, #b8fdff);
+    box-sizing: 
+    border-box;
+    float:middle;
+    border-style:gradient
+    border= 2px solid #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 50px;
+    border-radius: 25px;
+
+}
+#fuckyou{
+  background-color: yellow;
+}
+body {display:grid ;
+  grid-template-columns: 35vw 30vw 35vw;
+  grid-template-rows: 20vh 10vh 15vh 55vh ;
+}
+
+#title {
+  background-color: #66a3ff;
+  grid-row: 1/2;
+  grid-column: 2/3;
+}
+#aboutme{
+  grid-column: 1/2;
+  grid-row: 1/4;
+  background-color:#66a3ff;
+  background-image:url(water/tumblr_da954c39541bf97101602353a3f6aef0_d05d50fd_640-ezgif.com-webp-to-gif-converter.gif);
+}
+
+#bio {
+  grid-row:1/4 ;
+  grid-column: 3/4;
+  background-color:#66a3ff;
+  background-image:url(water/tumblr_da954c39541bf97101602353a3f6aef0_d05d50fd_640-ezgif.com-webp-to-gif-converter.gif);
+}
+
+
+#buttons{
+  background-color:#66a3ff;
+}
+#nothing2{
+  background-color:#66a3ff;
+}
+
+#ScriptThing{
+  background-color:#66a3ff;
+}
+
+
+
+/*BETTER CALL SAUL*/
+/*sterf walter white also live laugh skylar!!!!! fuck the misoginists
+hey its me its verity i know about a million things ask me everything
+hey its me alcoholity
+  hey its me cssity the teachers give no explenationity*/
+/*SHEEES GOOOT SHEES GOT AWWAAAAAAAAYYYYYYYYYY*/
+/*IK HAAT DIT IK HAAT DIT IK HAAT DIT IK HAAT DIT IK HAAT DIT IK HAAT DIT*/
